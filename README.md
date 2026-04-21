@@ -23,7 +23,7 @@ A streamlined Python application that provides a command-line interface to your 
 1. Clone this repository:
 
    ```
-   git clone https://github.com/yourusername/spotify-helper.git
+   git clone https://github.com/cplant27/spotify-helper.git
    cd spotify-helper
    ```
 
@@ -79,10 +79,6 @@ spotify-helper/
     ├── playlist_creator.py
     └── ui.py
 ```
-
-## License
-
-MIT License
 
 ## Acknowledgements
 
